@@ -73,7 +73,7 @@ Servo Hardware PWM
 
 3.**Upload do codigo** Vá no menu "Ferramentas", confira se a placa correta (ex: Arduino Uno) e a porta USB (COM) estão selecionadas. Depois, é só clicar no botão Carregar (a setinha para a direita) e esperar ele terminar de compilar.
 
-4.**Testes**Assim que o código subir, abra o Monitor Serial (Ctrl + Shift + M) e certifique-se de que a velocidade ali no cantinho da janela está em 9600 baud (senão os textos vão aparecer todos distorcidos).
+4.**Testes** Assim que o código subir, abra o Monitor Serial (Ctrl + Shift + M) e certifique-se de que a velocidade ali no cantinho da janela está em 9600 baud (senão os textos vão aparecer todos distorcidos).
 
 
 
